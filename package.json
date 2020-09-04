@@ -13,7 +13,7 @@
     "bootstrap": "^4.0.0-beta.2",
     "bootstrap-vue": "^1.2.0",
     "front-matter": "^3.0.1",
-    "marked": "^0.5.2",
+    "marked": "^1.1.1",
     "popper.js": "^1.12.9",
     "prismjs": "^1.15.0",
     "qs": "^6.6.0",
